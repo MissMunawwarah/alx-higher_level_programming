@@ -1,4 +1,5 @@
 #!/usr/bin/python3
-for letter in range(97, 123):
-    if chr(letter) is not 'q' and chr(letter) is not 'e':
-        print("{}".format(chr(letter)), end="")
+for x in ['a', 'b', 'c', 'd', 'f', 'g', 'h', 'i',
+        'j', 'k', 'l', 'm', 'n', 'o', 'p', 'r',
+        's', 't', 'u', 'v', 'w', 'x', 'y', 'z']:
+    print("{}".format(x), end='')
