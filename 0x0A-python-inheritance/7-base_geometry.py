@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 394819130d936262fdf6d649f52b6f5f8efa2d38
 #!/usr/bin/python3
 """Defines a base geometry class BaseGeometry."""
 
